@@ -1,0 +1,2 @@
+# Add .env to .gitignore to prevent secrets from being committed
+.env
