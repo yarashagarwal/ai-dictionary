@@ -246,3 +246,239 @@
 ### deretter: thereafter, then```
 - **Example (NO):** Vi gikk hjem, og deretter så vi en film.
 - **Example (EN):** We went home, and then we watched a movie.
+
+### ånd: spirit, ghost```
+- **Example (NO):** Han følte en kald ånd passere gjennom rommet.
+- **Example (EN):** He felt a cold spirit pass through the room.
+
+### ante: to assume or suppose```
+- **Example (NO):** Jeg ante ikke at det skulle skje.
+- **Example (EN):** I had no idea that was going to happen.
+
+### blir: becomes```
+- **Example (NO):** Hun blir glad når hun ser hunden.
+- **Example (EN):** She becomes happy when she sees the dog.
+
+### dekkning: coverage```
+- **Example (NO):** Mobiltelefonen min har dårlig dekkning her.
+- **Example (EN):** My mobile phone has poor coverage here.
+
+### drar: go, leave```
+- **Example (NO):** Hun drar til butikken.
+- **Example (EN):** She is going to the store.
+
+### egentelig: actually, really```
+- **Example (NO):** Han er egentlig fra Norge, men bor i Sverige.
+- **Example (EN):** He is actually from Norway, but lives in Sweden.
+
+### enda: yet, still, even```
+- **Example (NO):** Han har ikke kommet enda.
+- **Example (EN):** He has not arrived yet.
+
+### endelig: finally, at last```
+- **Example (NO):** Endelig er fredagen her!
+- **Example (EN):** Finally, Friday is here!
+
+### enkel: simple, easy```
+- **Example (NO):** Oppskriften er veldig enkel å følge.
+- **Example (EN):** The recipe is very simple to follow.
+
+### forsynt: satisfied or having had enough (usually in the context of eating)```
+- **Example (NO):** Jeg er forsynt, takk.
+- **Example (EN):** I am satisfied, thank you.
+
+### forutsatte: assumed, presupposed```
+- **Example (NO):** Han forutsatte at alle var enige før han fortsatte møtet.
+- **Example (EN):** He assumed that everyone agreed before he continued the meeting.
+
+### går mot: goes towards, approaches```
+- **Example (NO):** Han går mot butikken.
+- **Example (EN):** He goes towards the store.
+
+### gjennom: through```
+- **Example (NO):** Vi gikk gjennom parken.
+- **Example (EN):** We walked through the park.
+
+### heller: rather```
+- **Example (NO):** Jeg vil heller spise pizza enn pasta.
+- **Example (EN):** I would rather eat pizza than pasta.
+
+### hevder: claims```
+- **Example (NO):** Han hevder at han ikke var der den kvelden.
+- **Example (EN):** He claims that he was not there that evening.
+
+### hevn: revenge```
+- **Example (NO):** Han søkte hevn etter den store urettferdigheten.
+- **Example (EN):** He sought revenge after the great injustice.
+
+### innfør: introduce```
+- **Example (NO):** Vi må innføre nye regler for å forbedre sikkerheten.
+- **Example (EN):** We need to introduce new rules to improve safety.
+
+### klage: complain```
+- **Example (NO):** Han liker å klage over været.
+- **Example (EN):** He likes to complain about the weather.
+
+### klarte: managed```
+- **Example (NO):** Hun klarte å løse problemet.
+- **Example (EN):** She managed to solve the problem.
+
+### krav: demand, requirement```
+- **Example (NO):** Han stiller høye krav til seg selv.
+- **Example (EN):** He sets high demands on himself.
+
+### letereter: searching```
+- **Example (NO):** Han leter etter nøklene sine.
+- **Example (EN):** He is searching for his keys.
+
+### lynnedslag: lightning strike```
+- **Example (NO):** Under tordenværet så vi et kraftig lynnedslag nær huset.
+- **Example (EN):** During the thunderstorm, we saw a powerful lightning strike near the house.
+
+### mangler: lacks, is missing```
+- **Example (NO):** Han mangler en bok.
+- **Example (EN):** He is missing a book.
+
+### mener: thinks, believes, means```
+- **Example (NO):** Hun mener at vi bør dra nå.
+- **Example (EN):** She thinks that we should leave now.
+
+### menneske: human```
+- **Example (NO):** Hvert menneske er unikt.
+- **Example (EN):** Every human is unique.
+
+### oppdaget: discovered```
+- **Example (NO):** Han oppdaget en sjelden fugl i skogen.
+- **Example (EN):** He discovered a rare bird in the forest.
+
+### oppnådde: achieved```
+- **Example (NO):** Hun oppnådde sine mål gjennom hardt arbeid.
+- **Example (EN):** She achieved her goals through hard work.
+
+### påkjørt av: run over by```
+- **Example (NO):** Han ble påkjørt av en bil mens han krysset veien.
+- **Example (EN):** He was run over by a car while crossing the road.
+
+### rammes av: be affected by, be hit by```
+- **Example (NO):** Mange bedrifter ble hardt rammet av pandemien.
+- **Example (EN):** Many businesses were severely affected by the pandemic.
+
+### regn: rain```
+- **Example (NO):** Det kommer til å regne i dag.
+- **Example (EN):** It is going to rain today.
+
+### samenlegg: jointly, together```
+- **Example (NO):** Vi må jobbe sammenlegg for å fullføre prosjektet i tide.
+- **Example (EN):** We need to work together to complete the project on time.
+
+### samlet: collected, gathered, total```
+- **Example (NO):** Vi samlet inn mye penger til veldedighet.
+- **Example (EN):** We collected a lot of money for charity.
+
+### sammenhengen: the context, the connection```
+- **Example (NO):** For å forstå vitsen, må du kjenne til sammenhengen.
+- **Example (EN):** To understand the joke, you need to know the context.
+
+### seier: victory```
+- **Example (NO):** Laget feiret sin seier etter kampen.
+- **Example (EN):** The team celebrated their victory after the match.
+
+### selvsagt: of course, naturally```
+- **Example (NO):** Selvsagt kan du låne bilen min i morgen.
+- **Example (EN):** Of course, you can borrow my car tomorrow.
+
+### skjemavelde: bureaucracy```
+- **Example (NO):** Mange mener at skjemavelde gjør prosesser tregere i offentlige etater.
+- **Example (EN):** Many believe that bureaucracy slows down processes in public agencies.
+
+### skred frem: surged forward```
+- **Example (NO):** Folkemengden skred frem mot scenen i spenning.
+- **Example (EN):** The crowd surged forward towards the stage in excitement.
+
+### slå fast: to assert, to establish, to determine```
+- **Example (NO):** Vi må slå fast hva som faktisk skjedde.
+- **Example (EN):** We need to determine what actually happened.
+
+### slakt av: slaughter of```
+- **Example (NO):** Bonden forbereder seg på slakt av grisene før vinteren.
+- **Example (EN):** The farmer is preparing for the slaughter of the pigs before winter.
+
+### slengende: swinging, flinging```
+- **Example (NO):** Han gikk ned gaten med en slengende gange.
+- **Example (EN):** He walked down the street with a swinging gait.
+
+### større grad: greater extent```
+- **Example (NO):** Han er involvert i prosjektet i en større grad enn før.
+- **Example (EN):** He is involved in the project to a greater extent than before.
+
+### støtte: support```
+- **Example (NO):** Han trenger din støtte for å lykkes.
+- **Example (EN):** He needs your support to succeed.
+
+### sunt bondevett: common sense```
+- **Example (NO):** Det er sunt bondevett å ta på seg varme klær når det er kaldt ute.
+- **Example (EN):** It is common sense to wear warm clothes when it is cold outside.
+
+### tør: dare```
+- **Example (NO):** Tør du å hoppe fra ti-meteren?
+- **Example (EN):** Do you dare to jump from the ten-meter board?
+
+### underskudd: deficit```
+- **Example (NO):** Selskapet rapporterte et stort underskudd forrige kvartal.
+- **Example (EN):** The company reported a large deficit last quarter.
+
+### underveis: on the way, underway```
+- **Example (NO):** Vi kan stoppe og kjøpe mat underveis.
+- **Example (EN):** We can stop and buy food on the way.
+
+### uttrykke: to express```
+- **Example (NO):** Han brukte musikk til å uttrykke følelsene sine.
+- **Example (EN):** He used music to express his feelings.
+
+### vanvitig: ```
+- **Example (NO):** 
+- **Example (EN):** 
+
+### vestlig: western```
+- **Example (NO):** Vinden kommer fra en vestlig retning.
+- **Example (EN):** The wind is coming from a western direction.
+
+### vitenskap: science```
+- **Example (NO):** Vitenskap hjelper oss å forstå verden bedre.
+- **Example (EN):** Science helps us to understand the world better.
+
+### vært innom: been by, visited, stopped by```
+- **Example (NO):** Jeg har vært innom butikken på vei hjem.
+- **Example (EN):** I stopped by the store on my way home.
+
+### vanvittig: insane, crazy, incredible```
+- **Example (NO):** Han kjørte i en vanvittig fart nedover veien.
+- **Example (EN):** He drove at an insane speed down the road.
+
+### nedover: downwards```
+- **Example (NO):** Vi gikk nedover bakken sammen.
+- **Example (EN):** We walked down the hill together.
+
+### krevende: demanding```
+- **Example (NO):** Dette er en veldig krevende oppgave.
+- **Example (EN):** This is a very demanding task.
+
+### pleier: usually do, tend to```
+- **Example (NO):** Hun pleier å spise frokost klokka syv.
+- **Example (EN):** She usually eats breakfast at seven.
+
+### Hva slags: What kind of```
+- **Example (NO):** Hva slags mat liker du?
+- **Example (EN):** What kind of food do you like?
+
+### emner: topics, subjects```
+- **Example (NO):** Vi diskuterte forskjellige emner i klassen i dag.
+- **Example (EN):** We discussed various topics in class today.
+
+### temaer: themes```
+- **Example (NO):** Vi diskuterte ulike temaer i klassen i dag.
+- **Example (EN):** We discussed various themes in class today.
+
+### hensikt: purpose, intention```
+- **Example (NO):** Hun gjorde det med god hensikt.
+- **Example (EN):** She did it with good intention.
