@@ -166,3 +166,83 @@
 ### årsaken: the reason```
 - **Example (NO):** Årsaken til problemet er ikke kjent.
 - **Example (EN):** The reason for the problem is not known.
+
+### angriper: attacker```
+- **Example (NO):** Løven angriper byttet sitt.
+- **Example (EN):** The lion attacks its prey.
+
+### byttet: exchanged, swapped, or the prey```
+- **Example (NO):** Han byttet sin gamle bil mot en ny.
+- **Example (EN):** He exchanged his old car for a new one.
+
+### enhet: unit```
+- **Example (NO):** Hver enhet i bygningen har sin egen balkong.
+- **Example (EN):** Each unit in the building has its own balcony.
+
+### Klagar: Complains```
+- **Example (NO):** Han klagar alltid på været.
+- **Example (EN):** He always complains about the weather.
+
+### kjedekollisjon: pile-up, multiple vehicle collision```
+- **Example (NO):** Det var en stor kjedekollisjon på motorveien i går.
+- **Example (EN):** There was a big pile-up on the highway yesterday.
+
+### lyn: lightning```
+- **Example (NO):** Vi så lynet slå ned i treet.
+- **Example (EN):** We saw the lightning strike the tree.
+
+### turneringen: the tournament```
+- **Example (NO):** Turneringen starter neste uke.
+- **Example (EN):** The tournament starts next week.
+
+### stjernerytter: star rider```
+- **Example (NO):** Han drømte om å bli en stjernerytter og reise gjennom galaksene.
+- **Example (EN):** He dreamed of becoming a star rider and traveling through the galaxies.
+
+### alvorlig: serious```
+- **Example (NO):** Situasjonen er alvorlig, og vi må handle raskt.
+- **Example (EN):** The situation is serious, and we need to act quickly.
+
+### Utfordrende: Challenging```
+- **Example (NO):** Denne matteoppgaven er veldig utfordrende.
+- **Example (EN):** This math problem is very challenging.
+
+### krever: requires, demands```
+- **Example (NO):** Denne oppgaven krever mye tid.
+- **Example (EN):** This task requires a lot of time.
+
+### innsats: effort, contribution```
+- **Example (NO):** Din innsats i prosjektet har vært uvurderlig.
+- **Example (EN):** Your contribution to the project has been invaluable.
+
+### synes: to think, to seem, to appear```
+- **Example (NO):** Jeg synes det er en god idé.
+- **Example (EN):** I think it is a good idea.
+
+### uvurderlig: invaluable```
+- **Example (NO):** Din støtte har vært uvurderlig for meg.
+- **Example (EN):** Your support has been invaluable to me.
+
+### naturligvis: naturally, of course```
+- **Example (NO):** Naturligvis kan du låne bilen min.
+- **Example (EN):** Naturally, you can borrow my car.
+
+### erfaring: experience```
+- **Example (NO):** Han har mye erfaring innen programmering.
+- **Example (EN):** He has a lot of experience in programming.
+
+### hvilket som helst: whichever, any```
+- **Example (NO):** Du kan velge hvilket som helst alternativ.
+- **Example (EN):** You can choose any option.
+
+### skrive inn: write in, enter```
+- **Example (NO):** Kan du skrive inn navnet ditt her?
+- **Example (EN):** Can you write your name here?
+
+### oversetter: translator```
+- **Example (NO):** Han jobber som oversetter.
+- **Example (EN):** He works as a translator.
+
+### deretter: thereafter, then```
+- **Example (NO):** Vi gikk hjem, og deretter så vi en film.
+- **Example (EN):** We went home, and then we watched a movie.

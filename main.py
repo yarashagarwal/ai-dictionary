@@ -3,16 +3,17 @@ from excel import excel_action
 from tabulate import tabulate
 import sys
 import textwrap
+import argparse
 
 def wrap_entry(entry, width=20):
     return {k: textwrap.fill(str(v), width=width) if isinstance(v, str) else v for k, v in entry.items()}
 
 if __name__ == "__main__":
-    import argparse
     parser = argparse.ArgumentParser(description="Norwegian Dictionary CLI")
     parser.add_argument("-w", "--write", action="store_true", help="Write new words to the Excel dictionary")
     parser.add_argument("-r", "--read", action="store_true", help="Read and display all words in the Excel dictionary")
     parser.add_argument("-s", "--search", type=str, help="Search for a word in the Excel dictionary")
+    parser.add_argument("-f", "--file", type=str, help="Path to a file containing Norwegian words, one per line, to add to the dictionary")
     args = parser.parse_args()
 
     if args.read:
@@ -36,14 +37,24 @@ if __name__ == "__main__":
             print(f"'{args.search}' not found in the Excel dictionary.")
         sys.exit(0)
 
-    if args.write:
+    # Determine input words: from file if -f is given, else from stdin if -w is given
+    words = []
+    if args.file:
+        try:
+            with open(args.file, "r", encoding="utf-8") as infile:
+                words = [line.strip() for line in infile if line.strip()]
+        except Exception as e:
+            print(f"Error reading file {args.file}: {e}")
+            sys.exit(1)
+    elif args.write:
         print("Enter Norwegian words, one per line. Press Enter on an empty line to finish:")
-        words = []
         while True:
             word = input().strip()
             if not word:
                 break
             words.append(word)
+
+    if args.write or args.file:
         # Read existing words from Excel before calling the AI API
         existing_entries = excel_action('read')
         existing_words = {entry['word'] for entry in existing_entries if 'word' in entry}
@@ -72,11 +83,11 @@ if __name__ == "__main__":
         else:
             print("No new words to add. All words already exist in the Excel dictionary.")
         print(f"Total words in the Excel dictionary: {len(existing_words) + len(results)}")
-
         # Reorganize all words alphabetically in the Excel file
         all_entries = excel_action('read')
         sorted_entries = sorted(all_entries, key=lambda x: x.get('word', '').lower())
         excel_action('write', data=sorted_entries)
         print("Reorganized all words alphabetically in the Excel dictionary.")
+        sys.exit(0)
     else:
         parser.print_help()
