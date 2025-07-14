@@ -482,3 +482,211 @@
 ### hensikt: purpose, intention```
 - **Example (NO):** Hun gjorde det med god hensikt.
 - **Example (EN):** She did it with good intention.
+
+### foretrekke: to prefer```
+- **Example (NO):** Jeg foretrekker te fremfor kaffe.
+- **Example (EN):** I prefer tea over coffee.
+
+### tomme felt: empty spaces```
+- **Example (NO):** Det er mange tomme felt i skjemaet som må fylles ut.
+- **Example (EN):** There are many empty spaces in the form that need to be filled out.
+
+### anledningen: the reason```
+- **Example (NO):** Jeg vil gjerne vite anledningen til dette møtet.
+- **Example (EN):** I would like to know the reason for this meeting.
+
+### Løven: The lion```
+- **Example (NO):** Løven brøler i dyreparken.
+- **Example (EN):** The lion roars in the zoo.
+
+### hemmelige: secret```
+- **Example (NO):** De delte hemmelige historier med hverandre.
+- **Example (EN):** They shared secret stories with each other.
+
+### tomme felt: empty space```
+- **Example (NO):** Hun så på det tomme feltet hvor huset en gang sto.
+- **Example (EN):** She looked at the empty space where the house once stood.
+
+### fremfor: in preference to, rather than```
+- **Example (NO):** Han valgte å lese en bok fremfor å se på TV.
+- **Example (EN):** He chose to read a book rather than watch TV.
+
+### mens: while```
+- **Example (NO):** Jeg leser en bok mens jeg drikker te.
+- **Example (EN):** I read a book while I drink tea.
+
+### fornærmede: victim```
+- **Example (NO):** Fornærmede vitnet i retten i dag.
+- **Example (EN):** The victim testified in court today.
+
+### retten: the court```
+- **Example (NO):** Retten vil ta en pause nå.
+- **Example (EN):** The court will take a break now.
+
+### Skuddveksling: Gunfight, shootout```
+- **Example (NO):** Politiet ble involvert i en skuddveksling med gjerningsmannen.
+- **Example (EN):** The police were involved in a shootout with the perpetrator.
+
+### attentatet: the assassination```
+- **Example (NO):** Politiet etterforsker attentatet som skjedde i går.
+- **Example (EN):** The police are investigating the assassination that happened yesterday.
+
+### Etterretnings: Intelligence (as in information gathering, especially in military, security, or police contexts)```
+- **Example (NO):** Etterretningsbyrået samlet informasjon om den mistenkte.
+- **Example (EN):** The intelligence agency gathered information about the suspect.
+
+### Forsvinner: disappears```
+- **Example (NO):** Solen forsvinner bak horisonten.
+- **Example (EN):** The sun disappears behind the horizon.
+
+### avfyrer: fires, discharges```
+- **Example (NO):** Soldaten avfyrer sitt våpen mot målet.
+- **Example (EN):** The soldier fires his weapon at the target.
+
+### Mistet: Lost```
+- **Example (NO):** Jeg har mistet nøklene mine.
+- **Example (EN):** I have lost my keys.
+
+### Graver vi frem: Are we digging up```
+- **Example (NO):** Graver vi frem gamle minner når vi rydder i boden?
+- **Example (EN):** Are we digging up old memories when we clean out the storage room?
+
+### Bunns: Bottoms```
+- **Example (NO):** Vi fant mange interessante ting på bunns av innsjøen.
+- **Example (EN):** We found many interesting things at the bottom of the lake.
+
+### Dynetrekk: Duvet cover```
+- **Example (NO):** Jeg kjøpte et nytt dynetrekk i går.
+- **Example (EN):** I bought a new duvet cover yesterday.
+
+### Straffekonk: Penalty shootout```
+- **Example (NO):** Straffekonken vil avgjøre hvilket lag som går videre i turneringen.
+- **Example (EN):** The penalty shootout will decide which team advances in the tournament.
+
+### Vekkjer: Awakens```
+- **Example (NO):** Lyset vekkjer fuglene om morgenen.
+- **Example (EN):** The light awakens the birds in the morning.
+
+### Oppsikt: Attention, sensation```
+- **Example (NO):** Hans oppfinnelse vakte stor oppsikt.
+- **Example (EN):** His invention attracted great attention.
+
+### Uheldig: Unfortunate```
+- **Example (NO):** Det var uheldig at han mistet nøklene sine.
+- **Example (EN):** It was unfortunate that he lost his keys.
+
+### Innrømmer: Admits```
+- **Example (NO):** Han innrømmer at han tok feil.
+- **Example (EN):** He admits that he was wrong.
+
+### Siktet: Charged (as in accused of a crime)```
+- **Example (NO):** Personen ble siktet for tyveri.
+- **Example (EN):** The person was charged with theft.
+
+### Rettes opp: to be corrected, to be straightened up```
+- **Example (NO):** Feilene i dokumentet må rettes opp før fristen.
+- **Example (EN):** The errors in the document need to be corrected before the deadline.
+
+### Reddet: Saved```
+- **Example (NO):** Han reddet katten ut av treet.
+- **Example (EN):** He saved the cat from the tree.
+
+### Leve: Live```
+- **Example (NO):** Vi ønsker alle å leve et langt og lykkelig liv.
+- **Example (EN):** We all want to live a long and happy life.
+
+### Pågang: rush, pressure, demand```
+- **Example (NO):** Det var stor pågang på billetter til konserten.
+- **Example (EN):** There was a high demand for tickets to the concert.
+
+### Ansette: To employ, to hire```
+- **Example (NO):** Bedriften planlegger å ansette flere ingeniører neste år.
+- **Example (EN):** The company plans to hire more engineers next year.
+
+### Saksøkes: to be sued```
+- **Example (NO):** Firmaet saksøkes for brudd på kontrakten.
+- **Example (EN):** The company is being sued for breach of contract.
+
+### Forening: Association, society, union```
+- **Example (NO):** Han er medlem av en lokal forening.
+- **Example (EN):** He is a member of a local association.
+
+### Kjapt: Quickly```
+- **Example (NO):** Kan du gjøre det kjapt?
+- **Example (EN):** Can you do it quickly?
+
+### Strøk: district or area```
+- **Example (NO):** Han bor i et fint strøk av byen.
+- **Example (EN):** He lives in a nice district of the city.
+
+### Faktisk: Actually```
+- **Example (NO):** Faktisk liker jeg ikke kaffe.
+- **Example (EN):** Actually, I do not like coffee.
+
+### Snarveier: Shortcuts```
+- **Example (NO):** Han bruker alltid snarveier for å spare tid.
+- **Example (EN):** He always uses shortcuts to save time.
+
+### Klarer seg: manages, gets by, copes```
+- **Example (NO):** Hun klarer seg godt på egen hånd.
+- **Example (EN):** She manages well on her own.
+
+### Ordningen: the arrangement, the system, the order```
+- **Example (NO):** Ordningen med å sortere avfall gjør det enklere å resirkulere.
+- **Example (EN):** The arrangement of sorting waste makes it easier to recycle.
+
+### Erklæring: Declaration, statement```
+- **Example (NO):** Han ga en offisiell erklæring til pressen.
+- **Example (EN):** He gave an official statement to the press.
+
+### Behov: Need, requirement```
+- **Example (NO):** Vi må vurdere barnets behov først.
+- **Example (EN):** We must consider the child's needs first.
+
+### Frede: to make peace, to calm down```
+- **Example (NO):** Han prøvde å frede situasjonen mellom de to gruppene.
+- **Example (EN):** He tried to calm down the situation between the two groups.
+
+### Var med på: Was part of```
+- **Example (NO):** Hun var med på møtet i går.
+- **Example (EN):** She was part of the meeting yesterday.
+
+### Viser til: Refers to```
+- **Example (NO):** I dokumentet viser til tidligere avtaler.
+- **Example (EN):** The document refers to previous agreements.
+
+### Sammenlignet: Compared```
+- **Example (NO):** Sammenlignet med fjoråret har vi doblet salget.
+- **Example (EN):** Compared to last year, we have doubled our sales.
+
+### Senere: Later```
+- **Example (NO):** Vi kan snakke om dette senere.
+- **Example (EN):** We can talk about this later.
+
+### Seneste: Latest, most recent```
+- **Example (NO):** Han ankom på den seneste flyvningen.
+- **Example (EN):** He arrived on the latest flight.
+
+### Vern: Protection```
+- **Example (NO):** Vi må sørge for vern av truede dyrearter.
+- **Example (EN):** We must ensure the protection of endangered species.
+
+### Bestemme: to decide, determine```
+- **Example (NO):** Du må bestemme deg snart.
+- **Example (EN):** You have to decide soon.
+
+### Veksten: The growth```
+- **Example (NO):** Veksten i økonomien er positiv.
+- **Example (EN):** The growth in the economy is positive.
+
+### Eneste: Only, sole```
+- **Example (NO):** Han er den eneste som vet sannheten.
+- **Example (EN):** He is the only one who knows the truth.
+
+### Fremover: Forward, ahead```
+- **Example (NO):** Vi må tenke fremover for å løse dette problemet.
+- **Example (EN):** We need to think ahead to solve this problem.
+
+### sannheten: the truth```
+- **Example (NO):** Han fortalte meg endelig sannheten.
+- **Example (EN):** He finally told me the truth.
